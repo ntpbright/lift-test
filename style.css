@@ -3,6 +3,13 @@ html{
     font-size: 11px;
 }
 
+#nav{
+  height: 10%;
+  background-color: '#0B61A3';
+  color: white;
+  font-size: 20px;
+}
+
 table {
     width: 100%;
     table-layout:fixed;
